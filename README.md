@@ -20,3 +20,21 @@ Languages
 <a  target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JAVASCRIPT" height="35" width="35">
 </a>
+
+<hr>
+
+Reach out me 
+
+<a href="https://www.linkedin.com/in/roshan-mallick-2b816a2b8/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height="35" width="85">
+</a>
+
+<a   href="mailto:roshanmallick110@gmail.com" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="35" width="85">
+</a>
+
+<a   href="mailto:roshanmallick2005@proton.me" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/ProtonMail_logo.svg" height="35" width="85">
+</a>
+
+# Happy coding
